@@ -1,0 +1,16 @@
+body{
+    background: url(../images/background.jpg);
+}
+
+.jumbotron{
+    background: rgba(0,0,0,0.9);
+    color: green;
+    padding-top: 0;
+    margin-top:10%;
+    text-align: center;
+    height: 70%;
+    align-items: center;
+}
+
+
+
