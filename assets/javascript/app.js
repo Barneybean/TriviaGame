@@ -12,8 +12,8 @@ $("#document").ready(function (){
     var button;
     var choiceDiv;
     var userChoice;
-    var interval=3;
-    var showAnswerTime=1;
+    var interval=10;
+    var showAnswerTime=2;
     var choiceArr=[$("#choice1"),$("#choice2"),$("#choice3"),$("#choice4")];
     var game=[
 
